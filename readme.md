@@ -1,6 +1,6 @@
-# Handwriting generation!
+# Handwriting Tasks!
 
-Handwriting generation problem involves 2 sequences: a sequence of text (input) and a sequence of points related to the position of a pen (output). This is an implementation of the paper by [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850.pdf) by Alex Graves.
+This problem involves 2 sequences: a sequence of text (input) and a sequence of points related to the position of a pen (output). This is an implementation of the paper by [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850.pdf) by Alex Graves.
 
 ### Dataset Description:
 
@@ -9,10 +9,12 @@ Handwriting generation problem involves 2 sequences: a sequence of text (input) 
 
 #### Tasks :
 
+- Handwriting recognition
 - Handwriting synthesis
   - Unconditional generation
-  - Conditional generation 
-- Handwriting recognition
+  
+  - Conditional generation
+  ![](https://github.com/Akella17/Handwriting_Synthesis/raw/master/utils/handwriting_cond.png)
 
 ## References:
  [1] https://arxiv.org/abs/1308.0850
