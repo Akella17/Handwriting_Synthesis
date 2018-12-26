@@ -10,8 +10,8 @@ Handwriting generation problem involves 2 sequences: a sequence of text (input) 
 #### Tasks :
 
 - Handwriting synthesis
- - Unconditional generation
- - Conditional generation 
+  - Unconditional generation
+  - Conditional generation 
 - Handwriting recognition
 
 ## References:
