@@ -1,6 +1,6 @@
 # Handwriting Tasks!
 
-This problem involves 2 sequences: a sequence of text (input) and a sequence of points related to the position of a pen (output). This is an implementation of the paper by [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850.pdf) by Alex Graves.
+This problem involves 2 sequences: a sequence of text (input) and a sequence of points related to the position of a pen (output). This is an implementation of the paper by [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850.pdf) [1] by Alex Graves.
 
 ### Dataset Description:
 
