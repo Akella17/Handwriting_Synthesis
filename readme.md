@@ -12,7 +12,7 @@ This problem involves 2 sequences: a sequence of text (input) and a sequence of 
 - Handwriting recognition
 - Handwriting synthesis
   - Unconditional generation
-  
+  ![](https://github.com/Akella17/Handwriting_Synthesis/raw/master/utils/handwriting_uncond.png)
   - Conditional generation
   ![](https://github.com/Akella17/Handwriting_Synthesis/raw/master/utils/handwriting_cond.png)
 
